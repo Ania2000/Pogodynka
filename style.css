@@ -66,6 +66,7 @@ body {
   }
   #WeatherInfo {
     margin: 20px auto;
+    display: none;
   }
 }
 @media (max-width: 768px) {
